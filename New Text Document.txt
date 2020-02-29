@@ -1,2 +1,3 @@
 This is the new file addition for Pull request policy testing
 This is the testing for Squash merge
+This is the third change
