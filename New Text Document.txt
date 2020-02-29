@@ -1,1 +1,0 @@
-This is the new file addition for Pull request policy testing
